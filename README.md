@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects and Activities:</h2>
 
 - <b>Data Structures and Algorithms Practice (HackerRank and LeetCode)</b>
-  - [Praciting DS & Algos in J](https://github.com/Benjamin0312/HackerRank-Data-Structures-and-Algos-Practise.git)
+  - [Praciting DS & Algos in Java](https://github.com/Benjamin0312/HackerRank-Data-Structures-and-Algos-Practise.git)
 - <b>Java Payroll Managemnet System (Database Integrated)</b>
   - [Project accessible here](https://github.com/Benjamin0312/Payroll_System)
 
