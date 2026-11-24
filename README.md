@@ -6,7 +6,8 @@
   - [Praciting DS & Algos in Java](https://github.com/Benjamin0312/HackerRank-Data-Structures-and-Algos-Practise.git)
 - <b>Java Payroll Managemnet System (Database Integrated)</b>
   - [Project accessible here](https://github.com/Benjamin0312/Payroll_System)
-
+- <b>Wealth Analytics Pipeline (Power BI Dashboard)</b>
+  - [Project accessible here](https://github.com/Benjamin0312/wealth-analytics-pipeline)
 
 <h2> 🤳 Connect with me:</h2>
 
